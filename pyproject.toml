@@ -1,0 +1,7 @@
+[project]
+name = "tg-gym-metrics"
+version = "0.1.0"
+description = "Telegram Mini-App 'GymMetrics'"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
