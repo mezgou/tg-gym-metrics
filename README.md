@@ -1,2 +1,2 @@
 # tg-gym-metrics
-Telegram Mini-App 'GymMetrics'
+Telegram Mini-App 'gym-metrics'
